@@ -1,5 +1,5 @@
 {
-  "name": "wordle",
+  "name": "wordle-plugin",
   "version": "1.0.0",
   "description": "A Wordle plugin you can add to any application",
   "types": "./dec",
