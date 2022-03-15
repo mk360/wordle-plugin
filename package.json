@@ -11,5 +11,8 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.6.2"
+  },
+  "repository": {
+    "url": "https://github.com/mk360/wordle-plugin"
   }
 }
