@@ -1,11 +1,15 @@
 {
   "name": "wordle",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A Wordle plugin you can add to any application",
+  "types": "./dec",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
 }
